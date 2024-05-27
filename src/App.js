@@ -37,7 +37,7 @@ function App() {
   }
 
   const toggleMode = ()=>{
-    if(Mode === 'light')
+    if(Mode === 'Light')
     {
 
       setMode('Dark');
